@@ -77,6 +77,7 @@ _Key points_
 
 _Answer_  
 As there is no condition stipulated on the amount of cash or number of trips possible, the answer is 3 trips, 3,000 figs, $3,000.
+Attempt 2: The tax is 1 fig per nautical mile, not a cash value. So that's 0 figs.
 
 
 ## Question Six
@@ -94,5 +95,5 @@ Question: A young woman is attending her mother's funeral. While there, she meet
 Why does she kill her sister?
 
 _Answer_  
-1. Because her sister is seeing the man that she has fallen in love with and she is vehemently jealous.
+1. Because her sister is seeing the man that she has fallen in love with and she is vehemently jealous.  
 2. Because there will be another funeral and in her deluded state she thinks that will trigger another meeting.
